@@ -9,4 +9,4 @@ i want scanf to wait for maximum  20 second to get the input if the input is not
 anyone who has any idea how to do that plese make a commit or suggestion to me 
 
 ### compiling 
-$ gcc tabu.c 
+`$ gcc tabu.c `
