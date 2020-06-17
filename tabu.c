@@ -45,7 +45,7 @@ case 8:
 	break;
 
 case 9:
-	printf("**Nigga**\n\nforbidden words :\nReally Nigga\nZenci\nKöle\n");
+	printf("------------sus------------");
 	break ;
 
 case 10:
